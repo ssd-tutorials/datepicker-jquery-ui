@@ -1,0 +1,30 @@
+* {
+	margin:0;
+	padding:0;
+	border:none;
+	outline:none;
+	color:#333;
+	font-size:12px;
+}
+body {
+	padding:30px 0;
+	text-align:center;
+	font-family:Arial,Verdana,Sans-serif;
+}
+p {
+	padding-bottom: 14px;
+}
+#wrapper {
+	text-align: left;
+	width:800px;
+	margin:0 auto;
+}
+.datepicker {
+	padding: 3px;
+	border:solid 1px #aaa;
+}
+.button {
+	padding: 3px 15px;
+	border: solid 1px #aaa;
+	cursor: pointer;
+}
